@@ -1,0 +1,5 @@
+favorite movie:Avatar
+favorite serial:Misfits
+favorite foods:pizza
+favorite time in year:spring
+want to visit country:Japan

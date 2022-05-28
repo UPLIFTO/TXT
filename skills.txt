@@ -1,0 +1,8 @@
+theory
+client-server architecture
+XCode
+server response
+Json, xml: structure
+mobile testing
+android studio
+
