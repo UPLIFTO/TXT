@@ -1,10 +1,10 @@
- Id:
- Heading:
- Description: 
- Os: 
- Priority: 
- Severity: 
- Repeatability:e
- Steps: 
+Id:
+Heading:
+Description: 
+Os: 
+Priority: 
+Severity: 
+Repeatability:e
+Steps: 
 Actual result: 
 Expected result: 
